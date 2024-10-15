@@ -1,5 +1,8 @@
 # ZK-Education
 
+## zk-Education DEMO VİDEO: https://drive.google.com/file/d/1JvbLVRfHiZ4WqH92C_VZ7IVtFnuxrmbl/view?usp=sharing <br>
+*With the zero-knowledge integration, the name of our project has changed to zk-Education.* <br>
+
 ## Table of Contents
 
 - [Project Overview](#ProjectOverview)
